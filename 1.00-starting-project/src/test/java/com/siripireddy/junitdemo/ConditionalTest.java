@@ -1,4 +1,4 @@
-package com.luv2code.junitdemo;
+package com.siripireddy.junitdemo;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

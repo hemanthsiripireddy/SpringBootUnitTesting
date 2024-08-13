@@ -1,9 +1,8 @@
-package com.luv2code.junitdemo;
+package com.siripireddy.junitdemo;
 
 import org.junit.jupiter.api.*;
 
 import java.time.Duration;
-import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;

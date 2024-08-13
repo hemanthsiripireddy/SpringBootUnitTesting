@@ -1,4 +1,4 @@
-package com.luv2code.junitdemo;
+package com.siripireddy.junitdemo;
 
 import java.util.List;
 
